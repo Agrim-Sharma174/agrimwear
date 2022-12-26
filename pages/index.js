@@ -49,11 +49,10 @@ export default function Home() {
                   </svg>
                 </div>
                 <h2 className="text-lg text-gray-900 font-medium title-font mb-2">
-                  Shooting Stars
+                  Fit
                 </h2>
                 <p className="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem quibusdam odit deserunt repellat? Inventore aperiam, dolores suscipit excepturi eum in.
                 </p>
               </div>
             </div>
